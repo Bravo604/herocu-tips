@@ -1,1 +1,1 @@
-web: gunicorn cheats.wsgi --log-file -
+web: gunicorn tips.wsgi --log-file -
